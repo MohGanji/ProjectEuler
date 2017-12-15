@@ -1,2 +1,5 @@
 # ProjectEuler
-my solutions to ProjectEuler.net problems
+my solutions to [ProjectEuler](https://projectEuler.net) problems
+
+## to do
+[ ] better names
